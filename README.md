@@ -47,7 +47,14 @@ CS20 project website, could become Skills Canada entry
   - [] Return button
   - [] Item links including:
     - [] Image with name and rating
-    - [] 
-    - []
-    - []
+    - [] Price
+    - [] Add to Cart
+    - [] Quantity
+  - [] See more tab
+- [] Create Games page, including:
+  - [] Steam/Kongregate (etc.) hyperlinks
+  - [] Item links including:
+    - [] Image with name and rating
+    - [] Price
+    - [] Download/Order dropdown
   - [] See more tab
